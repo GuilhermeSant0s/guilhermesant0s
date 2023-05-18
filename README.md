@@ -1,5 +1,10 @@
 ## Olá me chamo Guilherme Gonçalves Santos, Desenvolvedor Back-End
 
+- 📚 Estou cursando Análise e Desenvolvimento de sistemas.
+- 🔭 Estou dedicando meu tempo a Python atualmente.
+- ⚡ Tenho 19 anos.
+- 💻 Construindo Sorte...
+
 ##
 
 <div style="display: inline_block"><br>
