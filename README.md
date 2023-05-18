@@ -1,4 +1,4 @@
-## Olá me chamo Guilherme Gonçalves Santos, Desenvolvedor Back-End
+## Olá me chamo Guilherme Gonçalves Santos, sou um Desenvolvedor Back-End!
 
 - 📚 Estou cursando Análise e Desenvolvimento de sistemas.
 - 🔭 Estou dedicando meu tempo a Python atualmente.
