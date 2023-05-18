@@ -6,7 +6,7 @@
 - 💻 Construindo Sorte...
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=highcontrast)
 #
 
 <div style="display: inline_block"><br>
