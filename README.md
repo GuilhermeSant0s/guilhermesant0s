@@ -7,8 +7,8 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesant0s&theme=tokyonight&langs_count=8)](https://github.com/guilhermesant0sgithub-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesant0s&theme=dracula&langs_count=8)](https://github.com/guilhermesant0sgithub-readme-stats)
 
 #
 
