@@ -30,6 +30,4 @@
 
 #
 
-  ![Snake animation](https://github.com/guilhermesant0s/guilhermesant0s/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=guilhermesant0s&repo=ELLEN2121&theme=react)](https://github.com/guilhermeasant0s/guilhermesant0s)
+![Snake animation](https://github.com/guilhermeasant0s/guilhermesant0s/blob/output/github-contribution-grid-snake.svg)
