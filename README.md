@@ -7,6 +7,8 @@
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesant0s&theme=tokyonight&langs_count=8)](https://github.com/guilhermesant0sgithub-readme-stats)
+
 #
 
 <div style="display: inline_block"><br>
