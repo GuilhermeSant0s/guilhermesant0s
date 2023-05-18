@@ -7,6 +7,8 @@
 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s)](https://github.com/guilhermesant0s/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=tokyonight)
+
 
 #
 
