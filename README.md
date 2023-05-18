@@ -6,8 +6,7 @@
 - 💻 Construindo Sorte...
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caua-Vieira&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Vieira&theme=highcontrast&langs_count=8)](https://github.com/Caua-Vieiragithub-readme-stats)
+
 
 #
 
