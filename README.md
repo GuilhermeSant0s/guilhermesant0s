@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guilhermesant0s/d41a21b72b4b6a63e81d3d2caa30d8e4/raw/e8f95341248e426e70d32cd7d3de6a1597d1eb4d/githubcard.svg"/>
-<h1 align="left">Olá 👋, Meu nome é Guilherme Santos</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF555F&width=435&lines=Ol%C3%A1%2C+me+chamo+Guilherme." alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermesant0s&color=yellow" alt="Profile views" /> </p>
 
 
