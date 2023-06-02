@@ -11,9 +11,11 @@
 
 - 💻 Construindo Sorte...
 
+<br>
 <br><br>
 
 ## ⚙️ &nbsp;Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -23,18 +25,33 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-
+  
 <br><br>
+
+## Vacuum
+<br>
+A [Vacuum](https://discord.gg/vacuum) comunidade na qual faço parte da Staff, é uma comunidade focada em ajudar desenvolvedores que estão entrando no mercado de trabalho agora e não sabem qual rumo tomar. Também faz a criação de projetos publicos para ensinar como é o trabalho em equipe. No geral é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os publicos. Quem tiver interesse, link está abaixo.
+
+<div align='center'>
+<br>
+
+ [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
+  </a>
+</div>
+<br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=vision-friendly-dark" alt="guilhermesant0s's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesant0s&layout=compact&theme=vision-friendly-dark" alt="guilhermesant0s's most languages"/>
-</p>
+<div align='center'>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=guilhermesant0s&show_icons=true&theme=vision-friendly-dark" alt="guilhermesant0s's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesant0s&layout=compact&theme=vision-friendly-dark" alt="guilhermesant0s's most languages"/>
+</div>
 
 <br><br>
 
+<div align='center'>
+  
 ## 👨‍💻 Contact
 
 <a href="https://www.linkedin.com/in/guilhermesants/" target="_blank">
@@ -43,5 +60,6 @@
 <a href = "mailto:guilherme.santos2022@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+</div>
 
 
