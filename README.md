@@ -30,6 +30,7 @@
 
 ## Vacuum
 <br>
+
 A [Vacuum](https://discord.gg/vacuum) comunidade na qual faço parte da Staff, é uma comunidade focada em ajudar desenvolvedores que estão entrando no mercado de trabalho agora e não sabem qual rumo tomar. Também faz a criação de projetos publicos para ensinar como é o trabalho em equipe. No geral é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os publicos. Quem tiver interesse, link está abaixo.
 
 <div align='center'>
