@@ -36,7 +36,7 @@ A [Vacuum](https://discord.gg/vacuum) comunidade na qual fa√ßo parte da Staff, √
 <div align='center'>
 <br>
 
- [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](https://discord.gg/vacuum)
+ [![Discord Invite](https://invidget.switchblade.xyz/vacuum)]([https://discord.gg/vacuum](https://discord.gg/vacuum-1055925925751046234))
   </a>
 </div>
 <br>
