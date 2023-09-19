@@ -27,19 +27,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
   
 <br><br>
-
-## Vacuum
-<br>
-
-A [Vacuum](https://discord.gg/vacuum) comunidade na qual faço parte da Staff, é uma comunidade focada em ajudar desenvolvedores que estão entrando no mercado de trabalho agora e não sabem qual rumo tomar. Também faz a criação de projetos publicos para ensinar como é o trabalho em equipe. No geral é uma comunidade focada em ajudar desenvolvedores novos, porém aberta a todos os publicos. Quem tiver interesse, link está abaixo.
-
-<div align='center'>
-<br>
-
- [![Discord Invite](https://invidget.switchblade.xyz/vacuum)]([https://discord.gg/vacuum](https://discord.gg/vacuum-1055925925751046234))
-  </a>
-</div>
-<br>
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
